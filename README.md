@@ -11,8 +11,8 @@ https://igerry.com/speeqs
 
 The source code of the project which is being maintained can be found here:
 
-https://github.com/gerryilagan/speeqs
+https://github.com/gerryilagan/SpeeqS
 
 Issues and questions should be raised here:
 
-https://github.com/gerryilagan/speeqs/issues
+https://github.com/gerryilagan/SpeeqS/issues
